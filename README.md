@@ -2,6 +2,11 @@
 
 This is a base Makefile for lambda codes, it perform the basics operations
 
+## Dependencies
+
+- upx
+- serverless cli
+
 ## Commands
 
 **Usage:**  `make <command>`
